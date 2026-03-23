@@ -38,3 +38,8 @@ docker build \
   --build-arg BAZEL_VERSION=7.0.1 \
   -t craftslab/gitiles:custom .
 ```
+
+## References
+
+- Gitiles `v1.6.0`: https://gerrit.googlesource.com/gitiles/+/refs/tags/v1.6.0
+- Gerrit `stable-2.13`: https://gerrit.googlesource.com/gerrit/+/refs/heads/stable-2.13
